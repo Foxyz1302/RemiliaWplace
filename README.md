@@ -42,9 +42,11 @@ Now for the main event: importing our art.
     *   Now you should have the overlay on the canvas.
   
 ### ⚠️ IMPORTANT NOTICE: READ BEFORE PAINTING!
-> Before painting, to make sure you're painting the right colors, In the **Mode** section select Mini-pixel. This will make it so that when you use the eyedropper tool, it will select the right color.
-> You may see the color wrong, therefore there's a "Style" in the **Mode** section called symbols which will display different symbols for every color, so you could make sure you're painting the right color (But it can be laggy for some).
-> Our artwork is positioned to coexist with others. Before you start placing pixels, **please double-check the overlay against the current canvas** to ensure we are building in the correct location and not accidentally overwriting a neighbor's existing art.
+> * Before painting, to make sure you're painting the right colors, In the **Mode** section select Mini-pixel. This will make it so that when you use the eyedropper tool, it will select the right color.
+> 
+> * You may see the color wrong, therefore there's a "Style" in the **Mode** section called symbols which will display different symbols for every color, so you could make sure you're painting the right color (But it can be laggy for some).
+> 
+> * Our artwork is positioned to coexist with others. Before you start placing pixels, **please double-check the overlay against the current canvas** to ensure we are building in the correct location and not accidentally overwriting a neighbor's existing art.
 ---
 
 ## Shoutouts & Tools 🛠️
