@@ -2,6 +2,8 @@
 
 A collaborative hub for all us `takorin` (Namako-daibakuhatsu) enjoyers and milkers! This repo holds the config files to get our awesome artwork onto the canvas with minimal pain and maximum gain.
 
+The drawing is going to be at: https://wplace.live/?lat=29.646737229019706&lng=-97.50612337822267&zoom=12.222427970074637
+
 ---
 
 ## What You'll Need
@@ -45,6 +47,8 @@ Now for the main event: importing our art.
 > * Before painting, to make sure you're painting the right colors, In the **Mode** section select Mini-pixel. This will make it so that when you use the eyedropper tool, it will select the right color.
 > 
 > * You may see the color wrong, therefore there's a "Style" in the **Mode** section called symbols which will display different symbols for every color, so you could make sure you're painting the right color (But it can be laggy for some).
+>
+> * If you don't have the color don't make more work by painting in "the closest color", always make sure you're using the right color
 > 
 > * Our artwork is positioned to coexist with others. Before you start placing pixels, **please double-check the overlay against the current canvas** to ensure we are building in the correct location and not accidentally overwriting a neighbor's existing art.
 ---
@@ -59,6 +63,6 @@ https://pepoafonso.github.io/color_converter_wplace/index.html
 
 ---
 
-## Pro Tips & Strategies (Work in Progress!)
+## Tips
 
-*   **Focus on the outline first!** Get the main shape down before worrying about fine details.
+*   **Focus on the outline and details first!** Get the main shape down before worrying about fine details.
