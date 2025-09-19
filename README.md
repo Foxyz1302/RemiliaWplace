@@ -1,4 +1,4 @@
-# Takorin (Namako-daibakuhatsu) Remilia painting project 🐄✨
+# Takorin Remilia painting project 🐄✨
 
 A collaborative hub for all us **takorin** (`namako_daibakuhatsu`) enjoyers and milkers in general! This repo holds the config files to get our awesome artwork onto the canvas with minimal pain and maximum gain.
 
