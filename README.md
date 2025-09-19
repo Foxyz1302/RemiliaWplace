@@ -29,22 +29,22 @@ Our config is useless without the main engine! We need the "Wplace Overlay Pro" 
 1.  **Click this link:** https://greasyfork.org/en/scripts/545041-wplace-overlay-pro
 2.  On the GreasyFork page, click the big green **"Install this script"** button.
 3.  It will open your userscript manager (Tampermonkey/Violentmonkey). Click **Install** again.
-4.  Refresh the Wplace page. You should see a new "Overlay PRO" button somewhere on the screen. Congrats!
+4.  Refresh the Wplace page. You should see a new "Overlay PRO" menu somewhere on the screen. Congrats!
 
-### Step 2: Load Our Sweet Takorin Template
+### Step 2: Load Our Sweet Remilia Template
 Now for the main event: importing our art.
 
 1.  **Grab the JSON files from this repo:**
     *   Click on `Remilia 1.json` and `Remilia 2.json` in the file list above.
     *   Click the "Raw" button.
-    *   Right-click on the page that opens and select **Save Page As...** to save it to your computer. Make sure it saves as a `.json` file!
+    *   Copy one of the jsons
 
 2.  **Open the Overlay PRO menu** on the Wplace page.
 
-3.  **Import `Remilia 1.json` and `Remilia 2.json`:**
+3.  **Import the jsons one by one:**
     *   Go to the **Ovelays** section.
     *   Click **Import**.
-    *   Click **Choose File** and find the `overlay.json` you just saved.
+    *   Paste the copied json.
     *   Now you should have the overlay on the canvas.
   
 ### ⚠️ IMPORTANT NOTICE: READ BEFORE PAINTING!
